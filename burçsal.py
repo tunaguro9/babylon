@@ -148,8 +148,6 @@ elif toplam == 20:
 elif toplam == 21:
     print("Tarot kartınız: Dünya,\nDeneyimlerinizi bütünleştirmek, tamamlanmayı yaşamak ve dünyayla bağ kurmak temel temanızdır.")
 
-print("\n")
-
 if toplam >= 10:
     ikinci = toplam // 10 + toplam % 10
 
